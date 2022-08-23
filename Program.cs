@@ -22,5 +22,26 @@ void printArray(string[] array)
     }
 }
 
-string[] temp = generateArray(8);
-printArray(temp);
+string[] checkArray(string[] inputArray) {
+    int tempLength = 0;
+    for (int i = 0; i < inputArray.Length; i++) { 
+        if(inputArray[i].Length<4 && !string.IsNullOrEmpty(inputArray[i])) {
+            tempLength++;
+        }
+    }
+    string[] tempArray = new string[tempLength];
+    int tempIdex = 0;
+    for (int i = 0; i < inputArray.Length; i++)
+    {
+        if (inputArray[i].Length < 4 && !string.IsNullOrEmpty(inputArray[i])) {
+            tempArray[tempIdex] = inputArray[i];
+            tempIdex++;
+        }
+    }
+    return tempArray;
+}
+
+string[] inputArray = generateArray(8);
+printArray(inputArray);
+string[] checkedArray = checkArray(inputArray);
+printArray(checkedArray);
