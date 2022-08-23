@@ -1,0 +1,15 @@
+G:\Projects\Study\c#\Sudy_c#\final_task\obj\Debug\net6.0\final_task.csproj.AssemblyReference.cache
+G:\Projects\Study\c#\Sudy_c#\final_task\obj\Debug\net6.0\final_task.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Study\c#\Sudy_c#\final_task\obj\Debug\net6.0\final_task.AssemblyInfoInputs.cache
+G:\Projects\Study\c#\Sudy_c#\final_task\obj\Debug\net6.0\final_task.AssemblyInfo.cs
+G:\Projects\Study\c#\Sudy_c#\final_task\obj\Debug\net6.0\final_task.csproj.CoreCompileInputs.cache
+G:\Projects\Study\c#\Sudy_c#\final_task\bin\Debug\net6.0\final_task.exe
+G:\Projects\Study\c#\Sudy_c#\final_task\bin\Debug\net6.0\final_task.deps.json
+G:\Projects\Study\c#\Sudy_c#\final_task\bin\Debug\net6.0\final_task.runtimeconfig.json
+G:\Projects\Study\c#\Sudy_c#\final_task\bin\Debug\net6.0\final_task.dll
+G:\Projects\Study\c#\Sudy_c#\final_task\bin\Debug\net6.0\ref\final_task.dll
+G:\Projects\Study\c#\Sudy_c#\final_task\bin\Debug\net6.0\final_task.pdb
+G:\Projects\Study\c#\Sudy_c#\final_task\obj\Debug\net6.0\final_task.dll
+G:\Projects\Study\c#\Sudy_c#\final_task\obj\Debug\net6.0\ref\final_task.dll
+G:\Projects\Study\c#\Sudy_c#\final_task\obj\Debug\net6.0\final_task.pdb
+G:\Projects\Study\c#\Sudy_c#\final_task\obj\Debug\net6.0\final_task.genruntimeconfig.cache
